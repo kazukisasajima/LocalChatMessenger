@@ -11,7 +11,7 @@ Pythonのソケット通信とfakerパッケージを使用して、クライア
 ```sh
 pip install faker
 ```
--もしくはrequirements.txtを使用してインストール
+- もしくはrequirements.txtを使用してインストール
 ```sh
 pip install -r requirements.txt
 ```
