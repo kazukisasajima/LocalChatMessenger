@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## 実行方法
 
-- 以下のコマンドを使用して、マークダウンファイルを HTML ファイルに変換できます。
+- 以下のコマンドを使用して、実行する。
 
 ```sh
 python3 server.py
